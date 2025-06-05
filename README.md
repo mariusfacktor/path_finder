@@ -13,18 +13,18 @@ Open path_finder.py and scroll down to main(). Set CHOSEN_EXAMPLE and choose whe
 #### One pair
 
 <div float="left">
-    <img src="./output_examples/output_polygon.png" alt="target" height="100">
-    <img src="./output_examples/output_ring.png" alt="target" height="100">
-    <img src="./output_examples/output_bars.png" alt="target" height="100">
+    <img src="./output_examples/output_polygon.png" alt="target" height="200">
+    <img src="./output_examples/output_ring.png" alt="target" height="200">
+    <img src="./output_examples/output_bars.png" alt="target" height="200">
 </div>
 <br>
 
 #### Two pairs
 
 <div float="left">
-    <img src="./output_examples_two_pairs/output_polygon_two_pairs.png" alt="target" height="100">
-    <img src="./output_examples_two_pairs/output_ring_two_pairs.png" alt="target" height="100">
-    <img src="./output_examples_two_pairs/output_bars_two_pairs.png" alt="target" height="100">
+    <img src="./output_examples_two_pairs/output_polygon_two_pairs.png" alt="target" height="200">
+    <img src="./output_examples_two_pairs/output_ring_two_pairs.png" alt="target" height="200">
+    <img src="./output_examples_two_pairs/output_bars_two_pairs.png" alt="target" height="200">
 </div>
 <br>
 
